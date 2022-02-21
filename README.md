@@ -25,7 +25,7 @@ $ git clone https://github.com/schacon/simplegit-progit
 $ git log
 commit ea82a6dfg817ec66f47342007242699h93763948
 Author: Sérgio Spezzia <sergio.spezzia@unifesp.br>
-Date:   Mon Mar 21 19:22:15 2022 -1720
+Date:   Mon Feb 21 08:24:19 2022 -1720
 
 
 
